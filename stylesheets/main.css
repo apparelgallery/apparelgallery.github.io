@@ -1,0 +1,70 @@
+/* line 1, main.css.sass */
+body {
+  padding-top: 20px;
+  padding-bottom: 60px; }
+
+/* line 5, main.css.sass */
+.container {
+  margin: 0 auto;
+  max-width: 1000px; }
+
+/* line 9, main.css.sass */
+h1 {
+  text-align: center; }
+
+/* line 12, main.css.sass */
+h2, h3 {
+  margin: 0px; }
+
+/* line 15, main.css.sass */
+.footer {
+  text-align: center;
+  font-weight: bold;
+  padding: 5px; }
+
+/* line 20, main.css.sass */
+.navbar .navbar-inner {
+  padding: 0; }
+
+/* line 23, main.css.sass */
+.navbar .nav {
+  margin: 0;
+  display: table;
+  width: 100%; }
+
+/* line 28, main.css.sass */
+.navbar .nav li {
+  display: table-cell;
+  vertical-align: middle;
+  width: 1%;
+  float: none; }
+
+/* line 34, main.css.sass */
+.navbar .nav li a {
+  font-weight: bold;
+  text-align: center;
+  border-left: 1px solid rgba(255, 255, 255, 0.75);
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  height: 40px; }
+
+/* line 41, main.css.sass */
+.navbar .nav li:first-child a {
+  border-left: 0;
+  border-radius: 3px 0 0 3px; }
+
+/* line 45, main.css.sass */
+.navbar .nav li:last-child a {
+  border-right: 0;
+  border-radius: 0 3px 3px 0; }
+
+/* line 49, main.css.sass */
+.center {
+  text-align: center; }
+
+/* line 52, main.css.sass */
+.middle {
+  vertical-align: middle; }
+
+/* line 55, main.css.sass */
+.vtop {
+  vertical-align: text-top; }
